@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="core.Ex2"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="objects.Person"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="objects.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.Driver"/>
+    <fullyQualifiedTypeName name="net.htmlparser.jericho.CharacterReference"/>
+    <fullyQualifiedTypeName name="jsoft.objects.UserObject"/>
+    <fullyQualifiedTypeName name="jsoft.library.Utilities"/>
+</qualifiedTypeNameHistroy>

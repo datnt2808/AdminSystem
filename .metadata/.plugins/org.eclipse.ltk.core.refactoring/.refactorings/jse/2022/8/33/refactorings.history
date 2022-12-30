@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;objects.Adsress&apos; to &apos;Address&apos;&#x0D;&#x0A;- Original project: &apos;jse&apos;&#x0D;&#x0A;- Original element: &apos;objects.Adsress&apos;&#x0D;&#x0A;- Renamed element: &apos;objects.Address&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Adsress&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;objects{Adsress.java[Adsress" matchStrategy="1" name="Address" qualified="false" references="true" similarDeclarations="false" stamp="1660914521463" textual="false" version="1.0"/>
+</session>
